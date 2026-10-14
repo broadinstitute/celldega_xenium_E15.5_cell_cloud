@@ -1,0 +1,49 @@
+{
+    "technology": "Xenium",
+    "segmentation_approach": [
+        "default"
+    ],
+    "max_pyramid_zoom": 15,
+    "tile_size": 500,
+    "image_info": [
+        {
+            "name": "dapi",
+            "button_name": "DAPI",
+            "color": [
+                0,
+                0,
+                255
+            ]
+        },
+        {
+            "name": "bound",
+            "button_name": "BOUND",
+            "color": [
+                0,
+                255,
+                0
+            ]
+        },
+        {
+            "name": "rna",
+            "button_name": "RNA",
+            "color": [
+                255,
+                0,
+                0
+            ]
+        },
+        {
+            "name": "prot",
+            "button_name": "PROT",
+            "color": [
+                255,
+                255,
+                255
+            ]
+        }
+    ],
+    "image_format": ".webp",
+    "use_int_index": true,
+    "use_row_groups": false
+}
