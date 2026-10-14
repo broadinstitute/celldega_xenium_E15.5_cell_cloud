@@ -1,0 +1,15 @@
+{
+  "technology": "point-cloud",
+  "segmentation_approach": [
+    "default"
+  ],
+  "max_pyramid_zoom": null,
+  "tile_size": 1,
+  "image_info": [],
+  "image_format": ".webp",
+  "use_int_index": false,
+  "alignments": [
+    "neighborhood",
+    "centroids"
+  ]
+}
